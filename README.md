@@ -1,5 +1,6 @@
+*.sql linguist-language=PLSQL
 # Manage_User
 Oracle PL/SQL  
 Oracle Procedure  
 Procedure to create User with nessesary Grants as Standart
-*.sql linguist-language=PLSQL
+
