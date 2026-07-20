@@ -2,3 +2,4 @@
 Oracle PL/SQL  
 Oracle Procedure  
 Procedure to create User with nessesary Grants as Standart
+*.sql linguist-language=PLSQL
